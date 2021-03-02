@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Get Healthier than 2020
-- ⚡ Fun fact: I enjoy moviesa and shows (I know, pretty basic)
+- ⚡ Fun fact: I enjoy movies and shows (I know, pretty basic)
 
 ### Languages and Tools:
 
