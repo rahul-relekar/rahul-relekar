@@ -21,9 +21,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br />
 
-
 ### Relevant Links
-<br />
 [website]: https://rahul-relekar.github.io/home/  
 <br />
 [instagram]: https://www.instagram.com/rahul_relekar/?hl=en  
