@@ -22,6 +22,6 @@
 <br />
 
 <br />
-[website]: https://rahul-relekar.github.io/home/
-[instagram]: https://www.instagram.com/rahul_relekar/?hl=en
-[linkedin]: https://www.linkedin.com/in/rahul-relekar-07896b16b/
+[website]: https://rahul-relekar.github.io/home/  
+[instagram]: https://www.instagram.com/rahul_relekar/?hl=en  
+[linkedin]: https://www.linkedin.com/in/rahul-relekar-07896b16b/  
