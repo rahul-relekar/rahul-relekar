@@ -1,10 +1,10 @@
 ### Hi there, I'm Rahul Relekar👋
 
-## I'm a Software Developer!!
+## I'm a Tech Enthusiast
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working in crypto🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Get Healthier than 2020
+- 🥅 2025 Goals: Get Healthier than 2024
 - ⚡ Fun fact: I enjoy movies and shows (I know, pretty basic)
 
 ### Languages and Tools:
